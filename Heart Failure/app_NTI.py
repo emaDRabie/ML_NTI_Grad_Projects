@@ -13,7 +13,7 @@ st.set_page_config(
 st.header('Heart Failure Prediction ❤️')
 st.write('This app predicts the risk of heart failure based on patient data.')
 
-model = joblib.load('RandomForest_model.pkl')
+model = joblib.load('heart_failure_rf.pkl')
 scaler = joblib.load('scaler.pkl')
 
 
