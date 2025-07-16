@@ -9,7 +9,7 @@ This project demonstrates a machine learning model for classifying handwritten d
 - Interactive web UI for digit prediction
 
 ## Demo
-
+![MNIST](GIF/MNIST.gif)
 Try the live demo on Hugging Face Spaces:
 
 ## [⇱ Open MNIST Handwriting Classifier](https://huggingface.co/spaces/rafy52/hand_write)
