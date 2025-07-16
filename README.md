@@ -47,7 +47,7 @@ This project implements machine learning models to predict the risk of heart fai
 - Interactive UI for risk prediction
 
 ## Demo
-
+![MNIST](GIF/Heart.gif)
 Try the live demo on Hugging Face Spaces:
 
 ## [⇱ Open Heart Failure Risk Predictor](https://huggingface.co/spaces/rafy52/heart_failure1)
