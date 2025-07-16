@@ -12,7 +12,7 @@ This project demonstrates a machine learning model for classifying handwritten d
 
 Try the live demo on Hugging Face Spaces:
 
-## [Open MNIST Handwriting Classifier](https://huggingface.co/spaces/rafy52/hand_write)
+## [⇱ Open MNIST Handwriting Classifier](https://huggingface.co/spaces/rafy52/hand_write)
 
 ## How to Use
 
@@ -54,7 +54,7 @@ This project implements machine learning models to predict the risk of heart fai
 
 Try the live demo on Hugging Face Spaces:
 
-## [Open Heart Failure Risk Predictor](https://huggingface.co/spaces/rafy52/heart_failure1)
+## [⇱ Open Heart Failure Risk Predictor](https://huggingface.co/spaces/rafy52/heart_failure1)
 
 
 ## How to Use
