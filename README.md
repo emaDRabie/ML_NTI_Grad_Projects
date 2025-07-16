@@ -33,10 +33,6 @@ Try the live demo on Hugging Face Spaces:
 - model/ — Model training and evaluation scripts
 - README.md — Project documentation
 
-## License
-
-MIT
-
 
 
 # ◖2◗ Heart Failure Clinical Prediction
